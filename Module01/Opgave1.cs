@@ -1,6 +1,3 @@
-using System;
-
-namespace Module01;
 
 public class Opgave1
 {
